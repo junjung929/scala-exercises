@@ -1,0 +1,1 @@
+scalac -classpath /home/jun/Documents/scala-project/helloworld/target/scala-2.12/classes -bootclasspath /home/jun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar /home/jun/Documents/scala-project/helloworld/HelloWorld.scala

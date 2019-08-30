@@ -1,0 +1,12 @@
+compile
+run
+clean
+compile
+show scalaVersion 
+show Version
+show version
+compile
+run
+show version
+show scalaVersion
+show name
